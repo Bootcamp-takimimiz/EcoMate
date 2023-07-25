@@ -1,1 +1,1 @@
-# Ecomate
+# EcoMate
